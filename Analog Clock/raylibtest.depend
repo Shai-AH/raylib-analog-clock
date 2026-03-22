@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1774186565 source:c:\users\shahi\downloads\raylib analog clock\main.cpp
+	"raylib.h"
+	"analog.hpp"
+
+1731932645 c:\raylib\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1774211762 c:\users\shahi\downloads\raylib analog clock\analog.hpp
+	"raylib.h"
+	<ctime>
+
